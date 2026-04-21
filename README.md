@@ -1,1 +1,2 @@
-# Smart-App-RFID-and-Bluetooth-Integration2
+# SmartPath
+Smart App RFID and Bluetooth Integration
